@@ -6,7 +6,6 @@
 # SQLite databases
 *.db
 *.sqlite3
-database/
 
 # Python cache & virtual environments
 __pycache__/
@@ -17,6 +16,6 @@ __pycache__/
 .DS_store
 
 # sensitive stuff
-app.py
 seed_users.json
 initialise_db.py
+portal_routes.py
