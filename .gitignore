@@ -6,8 +6,17 @@
 # SQLite databases
 *.db
 *.sqlite3
+database/
 
 # Python cache & virtual environments
 __pycache__/
 *.py[cod]
-venv/
+.venv/
+
+#misc
+.DS_store
+
+# sensitive stuff
+app.py
+seed_users.json
+initialise_db.py
