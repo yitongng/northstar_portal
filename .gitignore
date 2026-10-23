@@ -1,0 +1,13 @@
+# Cryptographic keys and certificates
+*.pem
+*.key
+*.crt
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
